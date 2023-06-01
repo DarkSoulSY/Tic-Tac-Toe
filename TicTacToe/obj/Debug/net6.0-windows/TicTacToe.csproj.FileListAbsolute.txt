@@ -1,0 +1,40 @@
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.exe
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.deps.json
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.runtimeconfig.json
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.dll
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.pdb
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Form1.resources
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfo.cs
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.dll
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\refint\TicTacToe.dll
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.pdb
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.genruntimeconfig.cache
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\ref\TicTacToe.dll
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Dialog.resources
+C:\Users\Darks\Desktop\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Game.resources
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.exe
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.deps.json
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.runtimeconfig.json
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.dll
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.pdb
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.AssemblyReference.cache
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Dialog.resources
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Game.resources
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Form1.resources
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.GenerateResource.cache
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfoInputs.cache
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfo.cs
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.dll
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\refint\TicTacToe.dll
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.pdb
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.genruntimeconfig.cache
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\ref\TicTacToe.dll
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe..resources
+D:\Desktop V.3\Desktop Version 4.0\Projects\TicTacToe Windows form Application\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.About.resources
